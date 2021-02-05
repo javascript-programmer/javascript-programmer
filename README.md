@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🔭 I’m currently working on a game in glitch
+### 🔭 My website is http://javascript-programmer.github.io/
 ###🌱 I’m currently learning coding
 
 ### 💬 Ask me about anything
