@@ -7,8 +7,9 @@
 
 ### Check Me Out On https://scratch.mit.edu/users/learntoday/
 
+### Check out My Sats 
 
-
+[!learntoday GitHub stats](https://github-readme-stats.vercel.app/api?username=learntoday)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
