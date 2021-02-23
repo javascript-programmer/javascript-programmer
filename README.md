@@ -9,7 +9,7 @@
 
 ### Check out My Sats 
 
-[!learntoday GitHub stats](https://github-readme-stats.vercel.app/api?username=javascript-programmer)](https://github.com/anuraghazra/github-readme-stats)
+[!learntoday GitHub stats](https://github-readme-stats.vercel.app/api?username=javascript-programmer)]
 
 
 
