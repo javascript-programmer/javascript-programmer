@@ -9,7 +9,8 @@
 
 ### Check out My Sats 
 
-[!learntoday GitHub statshttps://github-readme-stats.vercel.app/api?username=javascript-programmer]
+
+
 
 
 
